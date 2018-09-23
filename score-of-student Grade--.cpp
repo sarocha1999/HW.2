@@ -30,7 +30,7 @@ int main()
 	else if (scoreofstudent >=80 && scoreofstudent<=100){
 		printf("\nGrade = A");
 	}
-	else if (scoreofstudent >=101 || scoreofstudent <0){
+	else if (scoreofstudent >=101 || scoreofstudent <=0){
 		printf("\nScore Error !! ");
 	}
 	return 0;
