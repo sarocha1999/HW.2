@@ -34,5 +34,4 @@ int main()
 		printf("\nScore Error !! ");
 	}
 	return 0;
-	
 }
